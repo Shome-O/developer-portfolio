@@ -172,3 +172,40 @@ main section {
 .download-cv {
     text-align: center;
 }
+
+/* footer style section  */
+.footer-container {
+    display: flex;
+    gap: 50px;
+    margin-top: 100px ;
+    
+    background-color: #FFF8F3;
+}
+.footer-coloumn {
+    flex: 1;
+    padding: 100px;
+}
+.icon-box {
+    display: flex;
+    
+}
+.coloumn-icon {
+    padding: 10px;
+
+}
+.input-1, .input-2 {
+    margin-bottom: 20px;
+    padding: 18px 35px;
+    color: #FFF;
+    border: 0;
+    border-radius: 5px;
+    box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+    width: 80%;
+}
+
+.input-1 {
+    
+}
+.input-2 {
+   padding-bottom: 100px;
+}
